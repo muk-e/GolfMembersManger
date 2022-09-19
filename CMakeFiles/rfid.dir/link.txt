@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/rfid.dir/main.cpp.o CMakeFiles/rfid.dir/hw/rfid/mfrc522.cpp.o CMakeFiles/rfid.dir/hw/spi/SPI.cpp.o -o rfid  -lwiringPi 
